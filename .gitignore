@@ -1,0 +1,23 @@
+# Power BI temporary & backup files
+*.tmp
+~*
+*.bak
+*.pbit.bak
+*.pbix.bak
+*.AutoSave*
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node / Python / Misc
+.vscode/
+.idea/
+*.log
