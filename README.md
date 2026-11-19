@@ -5,7 +5,7 @@
 [![Data Pipeline](https://img.shields.io/badge/Data_Pipeline-Snowflake_%26_Pandas-00ADEF?style=for-the-badge)](https://www.snowflake.com/)
 [![Machine Learning Companion](https://img.shields.io/badge/Companion_App-Streamlit_%26_Scikit--Learn-FF4B4B?style=for-the-badge)](https://hr-attrition-iq-fz7cy8ubamq9xq3jff4qib.streamlit.app/)
 
-An executive-level **Power BI Workforce Intelligence & Employee Retention Dashboard** designed to transform complex employee demographic, performance, and tenure data into high-impact visual retention strategies. 
+An executive-level **Power BI Workforce Intelligence & Employee Retention Dashboard** designed to transform complex employee demographic, performance, and tenure data into high-impact visual retention strategies..
 
 This project explores workforce attrition patterns across 4,700 employee records, isolates key exit drivers through multi-factor risk segmentation, and provides an actionable operational framework for HR business partners and executive leadership.
 
