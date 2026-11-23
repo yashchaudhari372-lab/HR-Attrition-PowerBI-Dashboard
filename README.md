@@ -7,7 +7,7 @@
 
 An executive-level **Power BI Workforce Intelligence & Employee Retention Dashboard** designed to transform complex employee demographic, performance, and tenure data into high-impact visual retention strategies..
 
-This project explores workforce attrition patterns across 4,700 employee records, isolates key exit drivers through multi-factor risk segmentation, and provides an actionable operational framework for HR business partners and executive leadership.
+This project explores workforce attrition patterns across 4,700 employee records, isolates key exit drivers through multi-factor risk segmentation, and provides an actionable operational framework for HR business partners and executive leadership..
 
 ---
 
